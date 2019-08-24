@@ -1,0 +1,52 @@
+#header{
+background-image: url("../assets/backgrounds/h_img.jpg");
+background-size: cover;
+height: 80vh;
+background-position: relative;
+
+
+}
+
+#text{
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    margin-top: 40px;
+}
+#p{
+    font-size: 10px;
+    color: white;
+}
+.meme{
+    text-align: center; 
+    
+}
+
+#about{
+    text-align: center;
+    font-size: 14px;
+    height: 50vh;
+    margin-top: 90px;
+    
+}
+#service{
+    background-image: url("../assets/backgrounds/s_image.jpg");
+    background-size: cover;
+    height: 70vh;
+}
+.text-sh{
+    text-align: center;
+    font-size: 13px;
+    color: white;
+    font-size: 14px;
+    
+}
+#text-sp{
+    text-align: center;
+    font-size: 13px;
+    color: white;
+    font-size: 14px;
+    margin-top: 100px;
+}
+.col-md-4{
+    text-align: center;
+}
