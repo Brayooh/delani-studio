@@ -50,3 +50,17 @@ background-position: relative;
 .col-md-4{
     text-align: center;
 }
+.works{
+    height: 
+}
+#contact{
+    background-image: url("../assets/backgrounds/c_image.jpg");
+    height: 70vh;
+    background-position: relative;
+    background-size: cover;
+}
+.contact-us{
+    text-align: center;
+    font-size: 15px;
+    color: white;
+}
