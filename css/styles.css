@@ -47,12 +47,13 @@ background-position: relative;
     font-size: 14px;
     margin-top: 100px;
 }
+.work{
+    height: "60vh";
+}
 .col-md-4{
     text-align: center;
 }
-.works{
-    height: 
-}
+
 #contact{
     background-image: url("../assets/backgrounds/c_image.jpg");
     height: 70vh;
@@ -63,4 +64,7 @@ background-position: relative;
     text-align: center;
     font-size: 15px;
     color: white;
+}
+.text-showing{
+    display: none;
 }
