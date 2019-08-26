@@ -120,22 +120,13 @@
         <div class="container" style="margin-top: 10vh" >
             <div class="row" style="text-align: center;">
                 <div class="col-md-6">
-                    <form action="form">
-                        <label for="name" class="col-md-2" control-label></label>
-                            <input type="text" placeholder="enter name">
+                    <form action=" class="form-cont" id="form"></form">
+                    
+                            <input type="text" id="name" placeholder="enter name">
+                            <input type="text" id="email" placeholder="enter email">
+                            <textarea rows="6" cols="80" name="comment" form="usrform">Your message here...</textarea>
+                            <button type="submit"class="btn btn-success btn:hover">Submit</button>
                     </form>
-                </div>
-                <div class="col-md-6">
-                <form action="email">
-                    <input type="text" placeholder="enter email">
-                </form>
-
-                </div>
-            </div> 
-            <div class="row" style="margin-left: 22vh; margin-top: 20px;">
-                <form action="form">
-                        <textarea rows="6" cols="80" name="comment" form="usrform">Your message here...</textarea>
-                </form>
             </div>
         </div>
         </div>
