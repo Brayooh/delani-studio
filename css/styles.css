@@ -1,3 +1,6 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+}
 #header{
 background-image: url("../assets/backgrounds/h_img.jpg");
 background-size: cover;
@@ -56,7 +59,7 @@ background-position: relative;
 
 #contact{
     background-image: url("../assets/backgrounds/c_image.jpg");
-    height: 80vh;
+    height: 60vh;
     background-position: relative;
     background-size: cover;
 }
