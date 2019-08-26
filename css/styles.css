@@ -65,7 +65,7 @@ background-position: relative;
     font-size: "15px";
     color: white;
 }
-#text-showing{
+#design-showing{
     display: none;
 }
 .clickable {
@@ -73,3 +73,9 @@ background-position: relative;
     color: black;
     font-size: "30px";
   }
+#dev-showing{
+    display: none;
+}
+#product-showing{
+    display: none;
+}

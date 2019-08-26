@@ -1,5 +1,6 @@
 $(document).ready(function() {
-$(".clickable").click(function() {
-    $("p").show();
+    var .clickable = "clickable"
+$("clickable").click(function() {
+    $(".text-showing").show();
     });
   });
