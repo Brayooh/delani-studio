@@ -23,7 +23,7 @@ background-position: relative;
 
 #about{
     text-align: center;
-    font-size: 14px;
+    font-size: "54px";
     height: 50vh;
     margin-top: 90px;
     
@@ -38,14 +38,14 @@ background-position: relative;
     text-align: center;
     font-size: 13px;
     color: white;
-    font-size: 14px;
+    font-size: "54px";
     
 }
 #text-sp{
     margin-top: "100vh";
     text-align: center;
     color: white;
-    font-size: "34px";
+    font-size: "54px";
 }
 .work{
     height: "60vh";
@@ -68,11 +68,6 @@ background-position: relative;
 #showing{
     display: none;
 }
-.clickable {
-    cursor: pointer;
-    color: black;
-    font-size: "30px";
-  }
   .hide{
       display: none;
   }
@@ -81,4 +76,8 @@ background-position: relative;
   }
   textarea{
       background: none;
+      color: white;
   }
+::placeholder{
+    color: white;
+}
