@@ -17,5 +17,5 @@ $('.main').click(function () {
     });
     $('input #name').css('color','white')
     $('input #email').css('color','white')
-    $('input #message').css('color','white')
+    $('input #message').css('color', 'white')
 
