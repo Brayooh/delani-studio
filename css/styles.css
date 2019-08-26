@@ -62,9 +62,14 @@ background-position: relative;
 }
 .contact-us{
     text-align: center;
-    font-size: 15px;
+    font-size: "15px";
     color: white;
 }
-.text-showing{
+#text-showing{
     display: none;
 }
+.clickable {
+    cursor: pointer;
+    color: black;
+    font-size: "30px";
+  }
