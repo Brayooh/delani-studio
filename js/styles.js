@@ -10,8 +10,11 @@ $('.main').click(function () {
            $(this).stop().animate({opacity: 1})
        })
     $("button").click(function () {
-        var client=document.getElementById("name").value; 
+        var client= document.getElementById("name").value; 
         alert('dear ' + client + ', we have received your message. ' + 'Thank you for your feedback.');
-        e.preventDefault
+        e.preventDefault()
     });
-    
+    $('input #name').css('color','white')
+    $('input #email').css('color','white')
+    $('input #message').css('color','white')
+
